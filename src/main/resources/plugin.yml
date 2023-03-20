@@ -1,0 +1,4 @@
+name: Perk System
+version: '${project.version}'
+main: tech.itexpress.perksystem.PerkSystem
+api-version: 1.19
